@@ -16,7 +16,7 @@ All the code is in computer_vision_football.ipynb
 ## Output
 Output video is 08fd33_4_PROC_1.mp4
 
-![frame example from the output](./final_view.jpg)
+![frame example from the output](final_view.JPG)
 
 ## Reference
 https://www.youtube.com/watch?v=aBVGKoNZQUw&t=1044s
